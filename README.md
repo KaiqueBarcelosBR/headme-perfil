@@ -1,8 +1,7 @@
 # 💫 About Me:
-Olá!
-Me chamo Kaique e sou apaixonado por tecnologia e esportes!
+Olá! Me chamo Kaique e sou apaixonado por tecnologia e esportes!
 
-Atuei na área de automação comercial e suporte por mais de 7 anos e a três meses atrás decidi migrar para a área de desenvolvimento web.
+Atuei na área de automação comercial e suporte por mais de 7 anos, e alguns meses atrás decidi migrar para a área de desenvolvimento web.
 Atualmente cursando faculdade de Análise e desenvolvimento de sistemas e realizando cursos com total foco em desenvolvimento Web Front-end.
 
 
