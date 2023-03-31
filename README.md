@@ -1,6 +1,6 @@
 # 💫 About Me:
-Console.log( Olá 👋, seja bem vindo ao meu perfil! );
-Me chamo Kaique e sou apaixonado por tecnologia e esportes!!
+Console.log( Olá 👋, seja bem vindo ao meu perfil!
+Me chamo Kaique e sou apaixonado por tecnologia e esportes!! );
 
 Atuei na área de automação comercial e suporte por mais de 7 anos, e alguns meses atrás decidi migrar para a área de desenvolvimento web.
 Atualmente cursando faculdade de ADS e realizando cursos com total foco em desenvolvimento Web Front-end.
